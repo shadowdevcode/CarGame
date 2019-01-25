@@ -15,8 +15,6 @@
 
  ```python game.py```
 
-***
-
 # Few Mores
 
 
