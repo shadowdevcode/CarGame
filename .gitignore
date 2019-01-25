@@ -1,6 +1,13 @@
 # Ignore Jet Brains folder
-.idea
+.idea/
 
 # VirtualEnvironment
 env/
 .venv/
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
