@@ -1,0 +1,6 @@
+# Idea folder
+.idea/
+
+# VirtualEnvironment
+env/
+.venv/
