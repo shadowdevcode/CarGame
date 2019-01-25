@@ -15,11 +15,13 @@
 
  ```python game.py```
 
-# Few Mores
+## Few Mores
 
 
 This project includes sound in **.wav** format. You can use any of your choice
 and set the path accordingly.
 
-### Preview:
+
+## Preview:
+
 ![cargame](https://user-images.githubusercontent.com/39980643/51739880-9d801900-20b8-11e9-9a8d-d189c450f4bf.gif)
