@@ -1,5 +1,5 @@
-# Idea folder
-.idea/
+# Ignore Jet Brains folder
+.idea
 
 # VirtualEnvironment
 env/
