@@ -1,3 +1,5 @@
+# Code by -Vijay Sehgal
+
 import pygame
 import time
 import random
